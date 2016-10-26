@@ -1,2 +1,2 @@
 # sentinel
-# visar lite granna
+# visar lite grand
